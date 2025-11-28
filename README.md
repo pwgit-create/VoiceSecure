@@ -60,7 +60,7 @@ Use this to:
 Located in:
 
 ```
-src/main/java/ai/voiceprotector/filters/
+src/main/java/voiceprotector/filters
 ```
 
 Included filters:
@@ -81,8 +81,8 @@ Each filter applies different transformations to resist voice-cloning models.
 Located in:
 
 ```
-src/main/java/ai/voiceprotector/
-src/main/java/ai/voiceprotector/gui/
+src/main/java/voiceprotector/
+src/main/java/voiceprotector/gui/
 ```
 
 Key classes:
@@ -100,7 +100,7 @@ Key classes:
 ```
 AUDIO_PROJECT
 │
-├── src/main/java/ai/voiceprotector/
+├── src/main/java/voiceprotector/
 │   ├── filters/
 │   │   ├── AIFormantScramblerStereo.java
 │   │   ├── ChaoticPhaseStereo.java
