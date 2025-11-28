@@ -20,12 +20,9 @@
 
     <licenses>
         <license>
-            <name></name>
-            <url></url>
+            <name>MIT</name>
+            <url>https://github.com/pwgit-create/VoiceSecure/blob/master/LICENSE</url>
             <distribution>repo</distribution>
-            <comments>
-            
-            </comments>
         </license>
     </licenses>
     <developers>
@@ -74,5 +71,6 @@
             </plugin>
         </plugins>
     </build>
+
 
 </project>
