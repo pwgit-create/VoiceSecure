@@ -82,7 +82,6 @@ Located in:
 
 ```
 src/main/java/voiceprotector/
-src/main/java/voiceprotector/gui/
 ```
 
 Key classes:
