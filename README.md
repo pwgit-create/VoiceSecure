@@ -155,7 +155,14 @@ VoiceSecure
 
 1. Install and start Voicemeeter Banana.
 2. Select its virtual input/output devices as your default Windows audio device or per-app device.
-3. Run the application using `Main.java`.
+3. Start the application by either:
+
+   * Running `Main.java`, **or**
+   * By building a JAR file using `mvn clean package` and then running it with:
+
+     ```powershell
+     java -jar target/ai.VoiceProtector-1.0-SNAPSHOT-jar-with-dependencies.jar
+     ```
 4. Route the processed audio into Voicemeeter’s **Virtual Input**.
 5. Choose Voicemeeter’s **Virtual Output** (e.g., “Voicemeeter VAIO”) as your mic in Discord/Teams/etc.
 6. You’re now speaking through a protected, filter-processed microphone.
