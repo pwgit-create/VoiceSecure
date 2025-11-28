@@ -1,7 +1,8 @@
 # VoiceSecure
 **Anti-AI Voice Cloning Protection (Java 17)**
 
-![Project Image Placeholder](./docs/img/placeholder.png)
+![Uploading robert-torres-4j_BW5x_njs-unsplash.jpg…]()
+
 
 ## **Overview**
 
