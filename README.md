@@ -98,31 +98,36 @@ Key classes:
 ## **Project Structure**
 
 ```
-AUDIO_PROJECT
+VoiceSecure
 │
-├── src/main/java/voiceprotector/
-│   ├── filters/
-│   │   ├── AIFormantScramblerStereo.java
-│   │   ├── ChaoticPhaseStereo.java
-│   │   ├── LPCWarpStereo.java
-│   │   ├── NoiseFilterStereo.java
-│   │   ├── SpectralHoleStereo.java
-│   │   └── XorObfuscationStereo.java
-│   │
-│   ├── gui/
-│   │   ├── AudioDeviceFinder.java
-│   │   └── AudioUtils.java
-│   │
-│   ├── Main.java
-│   ├── StereoAudioFilter.java
-│   ├── StereoFilterChain.java
-│   ├── StereoPipeline.java
-│   └── TestOutputSound.java
+├── src/
+│   └── main/
+│       └── java/
+│           └── voiceprotector/
+│               ├── filters/
+│               │   ├── AIFormantScramblerStereo.java
+│               │   ├── ChaoticPhaseStereo.java
+│               │   ├── LPCWarpStereo.java
+│               │   ├── NoiseFilterStereo.java
+│               │   ├── SpectralHoleStereo.java
+│               │   └── XorObfuscationStereo.java
+│               │
+│               ├── gui/
+│               │   └── StereoFilterGUI.java
+│               │
+│               ├── AudioDeviceFinder.java
+│               ├── AudioUtils.java
+│               ├── Main.java
+│               ├── StereoAudioFilter.java
+│               ├── StereoFilterChain.java
+│               ├── StereoPipeline.java
+│               └── TestOutputSound.java
 │
 ├── resources/
 ├── target/
 └── pom.xml
 ```
+
 
 ---
 
