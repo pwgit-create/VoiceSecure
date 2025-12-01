@@ -168,3 +168,48 @@ VoiceSecure
 6. You’re now speaking through a protected, filter-processed microphone.
 
 ---
+
+##  Illustrations
+
+### **1. Voicemeeter Banana – Virtual Inputs Overview**
+
+Shows where your processed audio enters Voicemeeter.
+
+![Virtual Inputs](https://github.com/pwgit-create/VoiceSecure/blob/master/.github/assets/images/Voicemeeter_Banana_virtual_input.png)
+
+---
+
+### **2. VoiceProtector – Anti Voice-Cloning Filters (GUI)**
+
+This interface lets you adjust all voice-protection filters.
+
+![Audio Filters GUI](https://github.com/pwgit-create/VoiceSecure/blob/master/.github/assets/images/mixer_for_audio_filters.png?raw=true)
+
+---
+
+### **3. Full Voicemeeter Banana Routing Setup**
+
+A complete view of how audio flows through Voicemeeter.
+![Voicemeeter Banana Full Setup](https://github.com/pwgit-create/VoiceSecure/blob/master/.github/assets/images/Voicemeeter_Banana_full_settings_2.png?raw=true)
+
+## Configure Windows Audio to Use Voicemeeter**
+
+For a simple setup:
+
+* **Default Input (Microphone):** `Voicemeeter Output (VAIO)`
+* **Default Output (Speakers):** `Voicemeeter Input (VAIO)`
+
+---
+
+## See VoiceSecure in Action –  Demo Video
+
+**Video Title:** Protect Your Voice with VoiceSecure – Anti AI Voice Cloning App
+
+[Watch on YouTube ▶](https://www.youtube.com/watch?v=iyqujOaw3jc)
+
+**What this video shows:**
+
+* A man speaking while VoiceSecure’s **Anti-AI voice filters** are active.
+* Real-time routing through **Voicemeeter Banana**, demonstrating how the voice is processed and protected.
+* How your voice can be anonymized and safeguarded against commercial AI voice cloning tools.
+
