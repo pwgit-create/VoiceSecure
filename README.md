@@ -199,7 +199,9 @@ For a simple setup:
 * **Default Input (Microphone):** `Voicemeeter Output (VAIO)`
 * **Default Output (Speakers):** `Voicemeeter Input (VAIO)`
 
-## 🎥 See VoiceSecure in Action –  Demo Video
+---
+
+## See VoiceSecure in Action –  Demo Video
 
 **Video Title:** Protect Your Voice with VoiceSecure – Anti AI Voice Cloning App
 
