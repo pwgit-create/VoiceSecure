@@ -199,3 +199,15 @@ For a simple setup:
 * **Default Input (Microphone):** `Voicemeeter Output (VAIO)`
 * **Default Output (Speakers):** `Voicemeeter Input (VAIO)`
 
+## 🎥 See VoiceSecure in Action –  Demo Video
+
+**Video Title:** Protect Your Voice with VoiceSecure – Anti AI Voice Cloning App
+
+[Watch on YouTube ▶](https://www.youtube.com/watch?v=iyqujOaw3jc)
+
+**What this video shows:**
+
+* A man speaking while VoiceSecure’s **Anti-AI voice filters** are active.
+* Real-time routing through **Voicemeeter Banana**, demonstrating how the voice is processed and protected.
+* How your voice can be anonymized and safeguarded against commercial AI voice cloning tools.
+
