@@ -168,3 +168,27 @@ VoiceSecure
 6. You’re now speaking through a protected, filter-processed microphone.
 
 ---
+
+## 📸 Illustrations
+
+### **1. Voicemeeter Banana – Virtual Inputs Overview**
+
+Shows where your processed audio enters Voicemeeter.
+
+![Virtual Inputs](attachment:Voicemeeter_Banana_virtual_input.png)
+
+---
+
+### **2. VoiceProtector – Anti Voice-Cloning Filters (GUI)**
+
+This interface lets you adjust all voice-protection filters.
+
+![Audio Filters GUI](attachment:mixer_for_audio_filters.png)
+
+---
+
+### **3. Full Voicemeeter Banana Routing Setup**
+
+A complete view of how audio flows through Voicemeeter.
+
+![Voicemeeter Banana Full Setup](attachment:Voicemeeter_Banana_full_settings.png)
