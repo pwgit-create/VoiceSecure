@@ -169,7 +169,7 @@ VoiceSecure
 
 ---
 
-## 📸 Illustrations
+##  Illustrations
 
 ### **1. Voicemeeter Banana – Virtual Inputs Overview**
 
