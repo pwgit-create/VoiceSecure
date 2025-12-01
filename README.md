@@ -175,7 +175,7 @@ VoiceSecure
 
 Shows where your processed audio enters Voicemeeter.
 
-![Virtual Inputs](attachment:Voicemeeter_Banana_virtual_input.png)
+![Virtual Inputs](https://github.com/pwgit-create/VoiceSecure/blob/docs/readme-media-update/.github/assets/images/Voicemeeter_Banana_virtual_input.png)
 
 ---
 
@@ -183,12 +183,12 @@ Shows where your processed audio enters Voicemeeter.
 
 This interface lets you adjust all voice-protection filters.
 
-![Audio Filters GUI](attachment:mixer_for_audio_filters.png)
+![Audio Filters GUI](https://github.com/pwgit-create/VoiceSecure/blob/docs/readme-media-update/.github/assets/images/mixer_for_audio_filters.png?raw=true)
 
 ---
 
 ### **3. Full Voicemeeter Banana Routing Setup**
 
 A complete view of how audio flows through Voicemeeter.
+![Voicemeeter Banana Full Setup](https://github.com/pwgit-create/VoiceSecure/blob/docs/readme-media-update/.github/assets/images/Voicemeeter_Banana_full_settings.png?raw=true)
 
-![Voicemeeter Banana Full Setup](attachment:https://github.com/pwgit-create/VoiceSecure/blob/docs/readme-media-update/.github/assets/images/Voicemeeter_Banana_full_settings.png?raw=true)
