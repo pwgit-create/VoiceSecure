@@ -193,10 +193,3 @@ A complete view of how audio flows through Voicemeeter.
 ![Voicemeeter Banana Full Setup](https://github.com/pwgit-create/VoiceSecure/blob/docs/readme-media-update/.github/assets/images/Voicemeeter_Banana_full_settings_2.png?raw=true)
 
 
-## Configure Windows Audio to Use Voicemeeter**
-
-For a simple setup:
-
-* **Default Input (Microphone):** `Voicemeeter Output (VAIO)`
-* **Default Output (Speakers):** `Voicemeeter Input (VAIO)`
-
