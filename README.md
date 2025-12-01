@@ -1,7 +1,7 @@
 # VoiceSecure
 **Anti-AI Voice Cloning Protection (Java 17)**
 
-![Robert Torres ](https://github.com/pwgit-create/VoiceSecure/blob/master/robert-torres-4j_BW5x_njs-unsplash.jpg?raw=true)
+![Robert Torres ](https://github.com/pwgit-create/VoiceSecure/blob/master/.github/assets/images/robert-torres-4j_BW5x_njs-unsplash.jpg?raw=true)
 
 
 ## **Overview**
